@@ -5,9 +5,9 @@ Email=stefanomanjaro.org
 Icon=/icon.png
 
 [Border]
-red=61
-green=174
-blue=233
+red=22
+green=160
+blue=133
 width=2
 
 [Text]
